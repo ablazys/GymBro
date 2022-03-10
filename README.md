@@ -1,1 +1,1 @@
-Gym Bro
+Gym Bro personal project
